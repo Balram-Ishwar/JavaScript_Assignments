@@ -1,0 +1,53 @@
+**1. What are the different data types present in javascript?**
+Ans>> javascript has seven data types. Below is a list of data types that JavaScript can have:
+	✓	Object
+	✓	Symbol
+	✓	Null
+	✓	Undefined
+	✓	Boolean
+	✓	String
+	✓	Number
+
+Primitive Data Types:
+The predefined data types provided by JavaScript language are known as primitive data types. Primitive data types are also known as in-built data types.
+Number: JavaScript numbers are always stored in double-precision 64-bit binary format IEEE 754. Unlike other programming languages, you don’t need int, float, etc to declare different numeric values.
+String: JavaScript Strings are similar to sentences. They are made up of a list of characters, which is essentially just an “array of characters, like “Hello Anshu Rajput” etc.
+Boolean: Represent a logical entity and can have two values: true or false.
+Null: This type has only one value that is null.
+Undefined: A variable that has not been assigned a value is undefined.
+Symbol: Symbols return unique identifiers that can be used to add unique property keys to an object that won’t collide with keys of any other code that might add to the object.
+BigInt: BigInt is a built-in object in JavaScript that provides a way to represent whole numbers larger than 253-1.
+
+Non-Primitive Data Types:
+The data types that are derived from primitive data types of the JavaScript language are known as non-primitive data types. It is also known as derived data types or reference data types.
+Object: It is the most important data type and forms the building blocks for modern JavaScript. We will learn about these data types in detail in further articles.
+
+
+2.What are the JavaScript Engines?
+ans>> JavaScript is a scripting language and is not directly understood by computer but the browsers have inbuilt JavaScript engine which help them to understand and interpret JavaScript codes. These engines help to convert our JavaScript program into computer-understandable language. 
+A JavaScript engine is a computer program that executes JavaScript code and converts it into computer understandable language.
+Google Chrome
+V8
+Edge (Internet Explorer)
+Chakra
+Mozilla Firefox
+Spider Monkey
+Safari
+Javascript Core Webkit
+
+3.Explain ECMA in JS.
+ans>>  ECMAScript is a scripting-language specification that was developed by ECMA International in order to create a standardised JavaScript implementation across all web browsers.
+It is widely used for client-side scripting in web browsers, and it is also used for server-side scripting with nodejs. ECMAScript is the successor to JavaScript, and it is backward-compatible with most JavaScript code.
+ECMAScript 6 is the latest version of the specification which was released in 2015 that is widely adopted by all modern web browsers.
+
+4.Why We use JavaScript?
+ans>> JavaScript is a light-weight object-oriented programming language that is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language. JavaScript enables dynamic interactivity on websites when it is applied to an HTML document.
+
+
+5.What is JavaScript? And also Explain the history of JavaScript?
+ans>> It is a text-based scripting language that includes data types to identify the data stored in a variable during execution. JavaScript is a dynamically typed language that does not require you to define the data type before declaring a variable. In JavaScript, a variable can be assigned any value.
+
+Brendan Eich first developed javascript a computer language, in about ten days in May 1995. The language, formerly known as Mocha, later modified to LiveScript, and is now known simply as JavaScript, was created to be used on the client-side of websites, enabling the addition of dynamic and interactive components to static html texts.It was developed for Netscape 2, and became the ECMA-262 standard in 1997. After Netscape handed JavaScript over to ECMA
+
+6.What is DOM in js? 
+ans>> The Document Object Model (DOM) is a programming interface for HTML(HyperText Markup Language) and XML(Extensible markup language) documents. It defines the logical structure of documents and the way a document is accessed and manipulated.
