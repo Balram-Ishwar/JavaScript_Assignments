@@ -1,12 +1,12 @@
-**1. What are the different data types present in javascript?**
+1. What are the different data types present in javascript?
 Ans>> javascript has seven data types. Below is a list of data types that JavaScript can have:
-	✓	Object
-	✓	Symbol
-	✓	Null
-	✓	Undefined
-	✓	Boolean
-	✓	String
-	✓	Number
+Object
+Symbol
+Null
+Undefined
+Boolean
+String
+Number
 
 Primitive Data Types:
 The predefined data types provided by JavaScript language are known as primitive data types. Primitive data types are also known as in-built data types.
